@@ -1,0 +1,13 @@
+# Entorno virtual de Python
+venv/
+
+# Archivos de caché
+__pycache__/
+*.pyc
+
+# Base de datos
+*.db
+
+# Archivos específicos de Uvicorn/IDE
+.DS_Store
+.vscode/
